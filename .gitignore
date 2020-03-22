@@ -1,0 +1,2 @@
+# Ignores HTML files created after Markdown conversion.
+**/*.html
