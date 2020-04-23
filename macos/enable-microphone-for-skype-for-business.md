@@ -24,7 +24,7 @@ Thanks to Fabiano Goncalves on [community.spiceworks.com](https://community.spic
 2. [Insert a new record](#user-content-insert-a-new-record-in-the-tcc-access-table) in the **access** table to instruct the TCC system that S4B is to use the microphone;
 3. [Enable back](#user-content-enable-macos-sip) the Mac OS Security Integrity Protection mode.
 
-After this the S4B shall be available under the "System Preferences > Security & Privacy > Privacy > Microphone".
+After this the S4B shall be available under the "System Preferences > Security & Privacy > Privacy > Microphone" and the audio shall work under full capacity.
 
 ## More Details ##
 This section provides more details into each of the high level steps identified above.
